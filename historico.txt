@@ -105,3 +105,4 @@ Registro de teste numero 103 - 2026-11-11T20:03:30.0055659-03:00
 Registro de teste numero 104 - 2026-11-11T20:03:30.4447220-03:00
 Registro de teste numero 105 - 2026-11-11T20:03:30.8950666-03:00
 Registro de teste numero 106 - 2026-11-11T20:03:31.3627774-03:00
+Registro de teste numero 107 - 2026-11-11T20:03:31.8855233-03:00
