@@ -8,3 +8,4 @@ Registro de teste numero 6 - 2026-11-11T20:02:36.4184443-03:00
 Registro de teste numero 7 - 2026-11-11T20:02:37.0800660-03:00
 Registro de teste numero 8 - 2026-11-11T20:02:37.7646717-03:00
 Registro de teste numero 9 - 2026-11-11T20:02:38.2633853-03:00
+Registro de teste numero 10 - 2026-11-11T20:02:38.8161899-03:00
