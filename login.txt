@@ -1,1 +1,2 @@
 Implementacao inicial do login.
+Validacao de usuario e senha.
